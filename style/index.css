@@ -108,7 +108,9 @@
                 transform: scale(1.08);
                 cursor: pointer;
 
-            }.best-project-container{
+            }
+            /* -------------------------------------------Best Project ----------------------------------------- */
+            .best-project-container{
                 background-image: linear-gradient(#cfdce4,#e9dfd9);
                 /* height: 600px; */
                 text-align: center;
